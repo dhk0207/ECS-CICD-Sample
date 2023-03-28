@@ -5,5 +5,5 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: "test-apache"
+          ContainerName: "mdk-apne2-nice-api-container-dev"
           ContainerPort: 80
